@@ -1,8 +1,6 @@
 # Colgm Compiler Project
 
-<div align="center">
-  <img src="../doc/png/logo-color.png" width="30%" />
-</div>
+![](../doc//png/logo-color.png)
 
 ## Hello
 
