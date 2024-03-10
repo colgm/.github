@@ -1,6 +1,7 @@
 # Colgm Compiler Project
-
-![logo](doc/png/logo-color.png)
+<p align="center">
+  <img src="https://github.com/colgm/.github/blob/main/profile/doc/png/logo-color.png" width="50%" />
+</p>
 
 ## Hello
 
