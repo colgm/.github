@@ -1,6 +1,6 @@
 # Colgm Compiler Project
 
-![logo](../doc/png/logo-color.png)
+![logo](doc/png/logo-color.png)
 
 ## Hello
 
