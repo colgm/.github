@@ -13,7 +13,8 @@ func main() -> i32 {
 
 ## Why Creating A New Language
 
-Just for fun.
+- Try to implement a new language that can compile itself.
+- Try to design an easy-to-use compiling language (more like C with some useful features).
 
 ## Language Guide
 
