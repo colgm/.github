@@ -2,6 +2,19 @@
 
 This is the organization for Colgm language.
 
+```rust
+use std::io::{ io };
+
+func main() -> i32 {
+    io::stdout().out("hello world!).endln();
+    return 0;
+}
+```
+
 ## Why Creating A New Language
 
 Just for fun.
+
+## Language Guide
+
+See [here](https://github.com/colgm/colgm/blob/main/doc/guide/tutorial.md).
