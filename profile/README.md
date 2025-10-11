@@ -1,6 +1,14 @@
-# <img src="https://raw.githubusercontent.com/colgm/colgm/0cfeb8a67d7a98543cf06d108f07b5ed45508e41/doc/colgm.svg" height="50px"/> Colgm Compiler Project
+# <img src="https://raw.githubusercontent.com/colgm/colgm/0cfeb8a67d7a98543cf06d108f07b5ed45508e41/doc/colgm.svg" height="50px"/> Welcome to Colgm Compiler Project
 
-This is the organization for Colgm language.
+Colgm aims to be a simple, easy-to-use and easy-to-maintain programming language.
+It will let you write relatively safe code without too much cognitive load.
+Targets supported now are [__LLVM IR__](https://llvm.org/) and [__nasal-lang__ [WIP]](https://github.com/ValKmjolnir/Nasal-Interpreter).
+
+Now nightly-builds are available:
+
+- [__macos-aarch64-nightly-build__](https://github.com/colgm/colgm/releases/tag/macOS_nightly)
+- [__linux-x86_64-nightly-build__](https://github.com/colgm/colgm/releases/tag/linux_nightly)
+- [__windows-x86_64-nightly-build__](https://github.com/colgm/colgm/releases/tag/windows_nightly)
 
 ```rust
 use std::io::{ io };
@@ -11,11 +19,14 @@ func main() -> i32 {
 }
 ```
 
-## Why Creating A New Language
-
-- Try to implement a new language that can compile itself.
-- Try to design an easy-to-use compiling language (more like C with some useful features).
-
 ## Language Guide
 
-See [here](https://github.com/colgm/colgm/blob/main/doc/guide/tutorial.md).
+See simple language guide in:
+
+- [language guide (English)](https://github.com/colgm/colgm/blob/main/doc/guide/tutorial.md)
+- [语言指南（中文版）](https://github.com/colgm/colgm/blob/main/doc/guide/tutorial_zh.md)
+
+See library reference in:
+
+- [standard library reference](https://github.com/colgm/colgm/blob/main/doc/guide/std_library_reference.md)
+- [compiler library reference](https://github.com/colgm/colgm/blob/main/doc/guide/compiler_library_reference.md)
