@@ -2,7 +2,9 @@
 
 Colgm aims to be a simple, easy-to-use and easy-to-maintain programming language.
 It will let you write relatively safe code without too much cognitive load.
-Targets supported now are [__LLVM IR__](https://llvm.org/) and [__nasal-lang__ [WIP]](https://github.com/ValKmjolnir/Nasal-Interpreter).
+
+Mainly support native targets.
+Target supported now is [__LLVM (text IR)__](https://llvm.org/).
 
 Now nightly-builds are available:
 
